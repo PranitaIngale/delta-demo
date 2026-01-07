@@ -2,4 +2,7 @@
 A demo for git and github class.
 
 # Teacher
-Pranita Ingale
+Pranita
+
+# Student 
+Pranita
